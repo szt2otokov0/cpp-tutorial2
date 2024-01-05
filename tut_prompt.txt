@@ -1,0 +1,6 @@
+I need you to create a C++ tutorial for me. I have previous knowledge of programming basics, object-oriented programming in C#. I also already know about <INSERT KNOWLEDGE HERE>, so you don't need to tell me about them. Try to focus one C++'s more unique features that may be new for someone only familiar with C#.
+
+The structure of the tutorial is as follows:
+- Break it down to chapters which tell me about one topic at a time. One chapter should fit in one response and one response must only have one chapter.
+- I might ask you questions between chapters, so only show the next chapter when I specifically ask you to.
+- One chapter should have a title, a short introduction, some more detailed explanation of the topic and some examples at the end which shows the chapters' subject used in practice.
